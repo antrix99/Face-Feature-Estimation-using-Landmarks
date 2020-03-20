@@ -7,4 +7,12 @@ Dataset used is Helen Dataset (http://www.ifp.illinois.edu/~vuongle2/helen/). It
 
 Sample Outputs:
 
-![alt text](https://raw.githubusercontent.com/antrix99/Face-Feature-Estimation-using-Landmarks/Master/tr1.jpg?raw=true "Optional Title")
+![alt text](https://raw.githubusercontent.com/antrix99/Face-Feature-Estimation-using-Landmarks/master/tr1.jpg?raw=true "Optional Title")
+![alt text](https://raw.githubusercontent.com/antrix99/Face-Feature-Estimation-using-Landmarks/master/ts1.jpg?raw=true "Optional Title")
+![alt text](https://raw.githubusercontent.com/antrix99/Face-Feature-Estimation-using-Landmarks/master/tr2.jpg?raw=true "Optional Title")
+![alt text](https://raw.githubusercontent.com/antrix99/Face-Feature-Estimation-using-Landmarks/master/ts2.jpg?raw=true "Optional Title")
+
+![alt text](https://raw.githubusercontent.com/antrix99/Face-Feature-Estimation-using-Landmarks/master/tr3.jpg?raw=true "Optional Title")
+![alt text](https://raw.githubusercontent.com/antrix99/Face-Feature-Estimation-using-Landmarks/master/ts3.jpg?raw=true "Optional Title")
+![alt text](https://raw.githubusercontent.com/antrix99/Face-Feature-Estimation-using-Landmarks/master/tr4.jpg?raw=true "Optional Title")
+![alt text](https://raw.githubusercontent.com/antrix99/Face-Feature-Estimation-using-Landmarks/master/ts4.jpg?raw=true "Optional Title")
